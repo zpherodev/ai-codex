@@ -25,3 +25,6 @@ In the correct example The double Focus node places an emphasis and a particular
 
 In the example of Incorrect parsing, the first error is made in paraphrasing "The Quick". This loses the nuance and context of it being a particular or specific focus. The second mistake is where part of the hierarchy is omitted. It thus becomes unknown if the Focus is Objective, Subjective, or General and once again context is lost. The final error is made when the last subnodes are omitted, making it unknown if the identity is pertaining to the speaker themself, possibly a name, possibly a species, or possibly a gender. With the incorrect parsing and stacking of nodes it becomes a miscommunication that is somewhat vague, confusing, or misleading. A subjective focus that is abstract and positive with a creative focus on an identity.
 
+After correctly parsing the nodes in order they are stacked in sequence, and can be analyzed in pairs using the Context Matrices for context and nuances.
+
+If communication is lacking for the AI model, the same node stack can be used to generate a natural sounding response with variations in the words from the same nodes. 
