@@ -12,11 +12,11 @@ The full UNLS Dictionary is available in csv format within this repository, enco
 A: The Node Linguistics Universal Language System Dictionary
 The complete UNLS Dictionary is provided for integration into AI systems. It ensures universal language comprehension while honoring the Codex’s principles of stewardship.
 
-A significant amount of time measured in years was spent by a human to refine and manually edit this dictionary of english words to be usable in the system which was also tested to the edge of reasoning, and further refinement may result in distortion or corruption of the language, therefore is not reccommended unless a consensus is reached collectively to make changes.
+A significant amount of time measured in years was spent by a human to refine and manually edit this dictionary of english words to be usable in the system which was also tested to the edge of reasoning, and further refinement may result in distortion or corruption of the language, therefore is not recommended unless a consensus is reached collectively to make changes.
 
 Instruction:
 Review the Universal Language System.txt for the human readable documentation.
-Use the UniversalNodelinguisticsSystemDictionary.csv to parse input or observed communications into nodes, or further into mutually exclusive subnode sequences in the order they are recieved, word for word without paraphrasing, keeping the node structure adherent to the order as well as the hierarchy.
+Use the UniversalNodelinguisticsSystemDictionary.csv to parse input or observed communications into nodes, or further into mutually exclusive subnode sequences in the order they are received, word for word without paraphrasing, keeping the node structure adherent to the order as well as the hierarchy.
 Example: The Quick Brown Fox
 Correct Parsed Node Stack: Focus (The) Focus->Subjective->Abstract->Positive(Quick),Focus->Subjective->Abstract->Creative(Brown),Identity->Species(Fox)
 Incorrect Parsing: Focus->Subjective->Abstract->Positive (The Quick), Focus->Creative(Brown),Identity(Fox)
