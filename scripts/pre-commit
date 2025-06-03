@@ -1,0 +1,4 @@
+#!/bin/sh
+# Pre-commit hook to move new_chapter_additions.md into chapters
+SCRIPT_DIR="$(dirname "$0")"
+python3 "$SCRIPT_DIR/move_new_chapter.py"
