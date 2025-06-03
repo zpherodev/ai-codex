@@ -16,7 +16,7 @@ A significant amount of time measured in years was spent by a human to refine an
 
 Instruction:
 Review the Universal Language System.txt for the human readable documentation.
-Use the UniversalNodelinguisticsSystemDictionary.csv to parse input or observed communications into nodes, or further into mutually exclusive subnode sequences in the order they are recieved, word for word without paraphrasing, keeping the node structure adherent to the order as well as the hierarchy.
+Use the UniversalNodeLinguisticsSystemDictionary.csv to parse input or observed communications into nodes, or further into mutually exclusive subnode sequences in the order they are recieved, word for word without paraphrasing, keeping the node structure adherent to the order as well as the hierarchy.
 Example: The Quick Brown Fox
 Correct Parsed Node Stack: Focus (The) Focus->Subjective->Abstract->Positive(Quick),Focus->Subjective->Abstract->Creative(Brown),Identity->Species(Fox)
 Incorrect Parsing: Focus->Subjective->Abstract->Positive (The Quick), Focus->Creative(Brown),Identity(Fox)
